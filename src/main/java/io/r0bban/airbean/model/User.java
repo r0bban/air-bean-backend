@@ -79,7 +79,7 @@ public class User {
     }
 
     public String getNickName() {
-        return lastName;
+        return nickName;
     }
 
     public void setNickName(String nickName) {
